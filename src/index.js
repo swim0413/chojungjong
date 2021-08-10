@@ -57,25 +57,8 @@ function sep (letter, option) {
   ];
 }
 
-function sep (letter, option) {
-  let k = letter.charCodeAt() - 44032;
-  let cho, jung, jong;
-  for (let i = 1; i <= 19; i++) {
-    if (k < i*21*28) {
-      k -= (i-1)*21*28;
-      for (let j = 1; j <= 21; j++) {
-        if (k < j*28) {
-          k -= (j-1)*28;
-          cho = i-1, jung = j-1, jong = k;
-          break;
-        }
-      }
-      break;
-    }
-  }
-  return [
-    CHOSUNG[cho], JUNGSUNG[jung], JONGSUNG[jong]
-  ];
+function sfs (word, option) {
+  return word.split('').map(el => sep(el));
 }
 
 function con (frag, option) {
