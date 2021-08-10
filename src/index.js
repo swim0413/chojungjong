@@ -88,5 +88,8 @@ function cfs (fragString, option) {
 
 module.exports = {
   separate: sep,
-  concat: con
+  sfs: sfs,
+  concat: con,
+  cfa: cfa,
+  cfs: cfs
 };
