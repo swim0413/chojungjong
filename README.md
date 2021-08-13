@@ -5,7 +5,7 @@
 ©️ 2021 Sanha, all rights reserved.
 
 ## License
-CC BY-NC-SA 2.0 KR
+CC BY-NC-SA 4.0
 
 ## How to Use
 
