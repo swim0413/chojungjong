@@ -1,6 +1,6 @@
 /*
 © 2021 Sanha, all rights reserved.
-License: CCL BY-NC 4.0
+License: CC BY-NC-SA 2.0 KR
 */
 
 const CHOSUNG = [
