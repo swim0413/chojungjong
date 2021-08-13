@@ -5,7 +5,7 @@
 ©️ 2021 Sanha, all rights reserved.
 
 ## License
-소스코드 파일에 표기되어있음.
+CC BY-NC-SA 2.0 KR
 
 ## How to Use
 
