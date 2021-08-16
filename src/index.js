@@ -75,7 +75,7 @@ function cfa (fragArray, option) {
 }
 
 function cfs (fragString, option) {
-  let b = fragString.split('').map(el => Number(JUNGSUNG.includes(el))).join('').replace(/00/g, '0||0').split('||').map(el => el.length > 3 ? el.replace(/10/g, '1||0') : el).join('||').split('||').map(el => el.length);
+  let b = fragString.split('').map(el => Number(JUNGSUNG.includes(el))).join('').replace(/00/g, '0||0').split('||').map(el => el.length > 3 ? el.replace(/10/g, '1||0') : el).join('||').replace(/\|\|0$/, '0').split('||').map(el => el.length);
   let result = String();
   let fsc = String(fragString);
   for (let v of b) {
