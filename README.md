@@ -53,17 +53,19 @@ cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 
 ## Development Note
 
-### v1.0-beta.3 (210824)
+### v1.0-beta
+
+#### v1.0-beta.3 (210824)
 - First Release
 
-### v1.0-beta.2 (210816, Unreleased)
+#### v1.0-beta.2 (210816, Unreleased)
 - cfs 함수에서 마지막 글자의 결합이 잘못 되던 오류 수정
 
-### v1.0-beta.1 (210810, Unreleased)
+#### v1.0-beta.1 (210810, Unreleased)
 - 종성이 없을 경우 concat 함수 매개변수에 빈 문자열이 들어갈 필요가 없도록 수정</li>
 - sfs 함수 추가
 - cfa 함수 추가
 - cfs 함수 추가
 
-### v1.0-beta.0 (210728, Unreleased)
+#### v1.0-beta.0 (210728, Unreleased)
 - 레포 생성
