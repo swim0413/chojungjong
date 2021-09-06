@@ -1,6 +1,4 @@
-/*
-© 2021 Sanha, all rights reserved.
-*/
+# © 2021 Sanha, all rights reserved.
 
 CHOSUNG = [
   'ㄱ', 'ㄲ', 'ㄴ',
