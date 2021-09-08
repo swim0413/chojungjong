@@ -4,7 +4,7 @@
 ## Copyright
 ©️ 2021 Sanha, all rights reserved.
 
-## How to Use
+## How to Use (JS)
 
 ### Get Started
 ```javascript
@@ -47,3 +47,6 @@ cjj.cfa([['ㅎ', 'ㅏ', 'ㄴ'], ['ㄱ', 'ㅡ', 'ㄹ']]); // "한글"
 ```javascript
 cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
+
+## How to Use (Python)
+미완성
