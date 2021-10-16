@@ -47,7 +47,7 @@ cfa는 **c**oncatenate **f**ragment **a**rray의 줄임말로, 이 함수는 초
 cjj.cfa([['ㅎ', 'ㅏ', 'ㄴ'], ['ㄱ', 'ㅡ', 'ㄹ']]); // "한글"
 ```
 
-### cfs(fragString: string)
+#### cfs(fragString: string)
 cfs는 **c**oncatenate **f**ragment **s**tring의 줄임말로, 이 함수는 초성, 중성, 종성이 분리된 상태의 문자열을 매개변수로 받아서 각각 결합한 문자열을 반환합니다.
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
 ```javascript
