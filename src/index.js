@@ -56,7 +56,7 @@ function sep (letter, option) {
   ];
 }
 
-function sfs (word, option) {
+function sfa (word, option) {
   return word.split('').map(el => sep(el));
 }
 
@@ -87,7 +87,7 @@ function cfs (fragString, option) {
 
 module.exports = {
   separate: sep,
-  sfs: sfs,
+  sfs: sfa,
   concat: con,
   cfa: cfa,
   cfs: cfs
