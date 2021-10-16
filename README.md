@@ -6,22 +6,25 @@
 
 ## How to Use (JS)
 
-### Get Started
+### 시작하기
+
+#### 모듈 불러오기
 ```javascript
 const cjj = require(PATH);
 ```
 
-### separate(letter: string)
-한글 한 글자를 매개변수로 받아서 초성, 중성, 종성으로 분리한 배열을 리턴.
+### 분리
+#### separate(letter: string)
+separate 함수는 한글 한 글자를 매개변수로 받아서 초성, 중성, 종성으로 분리한 배열을 반환합니다.
 <br><strong>'ㅇ'도 초성으로 취급</strong>
 ```javascript
 cjj.separate('와'); // [ "ㅇ", "ㅗ", "ㅏ" ]
 cjj.separate('우'); // [ "ㅇ", "ㅜ", "" ]
 ```
 
-### sfs(word: string)
-한글 여러 글자를 매개변수로 받아서 초성, 중성, 종성으로 분리한 배열의 배열을 리턴. 
-<br><strong>'ㅇ'도 초성으로 취급</strong>
+#### sfs(word: string)
+sfs는 **s**eparate into **f**ragment **s**tring의 줄임말로, 이 함수는 한글 여러 글자를 매개변수로 받아서 초성, 중성, 종성으로 분리한 배열의 배열을 반환합니다. 
+<br><strong>이때, 'ㅇ'도 초성으로 취급됩니다.</strong>
 ```javascript
 cjj.sfs('안녕'); // [ [ "ㅇ", "ㅏ", "ㄴ" ], [ "ㄴ", "ㅕ", "ㅇ" ] ]
 ```
