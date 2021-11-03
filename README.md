@@ -1,10 +1,16 @@
 # chojungjong
-한글 초성, 중성, 종성 분리 및 결합 (for JS/Python)
+한글 초성, 중성, 종성 분리 및 결합
 
 ## Copyright
 © 2021 Sanha, all rights reserved.
 
-## How to Use (JS)
+## 지원 언어
+- JavaScript
+- Python (미완성)
+- php (미완성)
+- Java (미완성)
+
+## JavaScript
 
 ### 시작하기
 
@@ -53,6 +59,3 @@ cfs는 **c**oncatenate **f**ragment **s**tring의 줄임말로, 이 함수는 �
 ```javascript
 cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
-
-## How to Use (Python)
-미완성
