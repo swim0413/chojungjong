@@ -78,7 +78,6 @@ function cfs (fragString, option) {
   let result = String();
   let fsc = String(fragString);
   for (let v of b) {
-    Log.d(fsc.slice(0, v));
     result += con(fsc.slice(0, v).split(''));
     fsc = fsc.slice(v);
   }
