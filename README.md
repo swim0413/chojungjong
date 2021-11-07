@@ -8,7 +8,7 @@
 - JavaScript
 - Python (미완성)
 - php (미완성)
-- Java (미완성)
+- Java
 
 ## JavaScript
 
