@@ -59,3 +59,6 @@ cfs는 **c**oncatenate **f**ragment **s**tring의 줄임말로, 이 함수는 �
 ```javascript
 cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
+
+## Java
+[java](https://github.com/nancom20/chojungjong/blob/main/src/chojungjongJava/README.md)
