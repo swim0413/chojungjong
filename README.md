@@ -63,12 +63,12 @@ cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ## Java
 by [nancom20](https://github.com/nancom20)
 
-#### 클래스 불러오기
+### 클래스 불러오기
 ```Java
 Chojungjong chojungjong = new Chojungjong()
 ```
 
-## 메소드
+### 메소드
 #### 구현된거
 
 ```Java
