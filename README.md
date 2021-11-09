@@ -61,4 +61,33 @@ cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
 
 ## Java
-[java](https://github.com/nancom20/chojungjong/blob/main/src/chojungjongJava/README.md)
+by [nancom20](https://github.com/nancom20)
+
+### 클래스 불러오기
+```Java
+Chojungjong chojungjong = new Chojungjong()
+```
+
+### 메소드
+#### 구현된거
+
+```Java
+separate(final String letter)
+```
+
+```Java
+sfa(final String word)
+```
+
+```Java
+concat(final String[] frag)
+```
+
+#### 미완성
+```
+cfa()
+```
+
+```
+cfs()
+```
