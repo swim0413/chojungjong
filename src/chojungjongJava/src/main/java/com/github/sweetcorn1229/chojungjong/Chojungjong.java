@@ -3,8 +3,6 @@
 */
 package com.github.sweetcorn1229.chojungjong;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
@@ -83,9 +81,15 @@ public class Chojungjong {
         return String.valueOf((char) cc);
     }
 
-    public String cfa(ArrayList<String> fragArray) {
+    public String cfa(final String[]... fragArray) {
+        StringBuilder ftag = new StringBuilder();
 
-        return null;
+        for (final String[] strings : fragArray) {
+            this.concat(strings);
+            ftag.append(this.concat(strings));
+        }
+
+        return ftag.toString();
     }
 
     public String cfs(String fragString) {
