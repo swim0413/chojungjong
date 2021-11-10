@@ -81,10 +81,10 @@ public class Chojungjong {
         return String.valueOf((char) cc);
     }
 
-    public String cfa(String[]... fragArray) {
+    public String cfa(final String[]... fragArray) {
         StringBuilder ftag = new StringBuilder();
 
-        for (String[] strings : fragArray) {
+        for (final String[] strings : fragArray) {
             this.concat(strings);
             ftag.append(this.concat(strings));
         }
