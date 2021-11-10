@@ -8,7 +8,7 @@
 - JavaScript
 - Python (미완성)
 - php (미완성)
-- Java (미완성)
+- Java
 
 ## JavaScript
 
@@ -58,4 +58,36 @@ cfs는 **c**oncatenate **f**ragment **s**tring의 줄임말로, 이 함수는 �
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
 ```javascript
 cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
+```
+
+## Java
+by [nancom20](https://github.com/nancom20)
+
+### 클래스 불러오기
+```Java
+Chojungjong chojungjong = new Chojungjong()
+```
+
+### 메소드
+#### 구현된거
+
+```Java
+separate(final String letter)
+```
+
+```Java
+sfa(final String word)
+```
+
+```Java
+concat(final String[] frag)
+```
+
+#### 미완성
+```
+cfa()
+```
+
+```
+cfs()
 ```

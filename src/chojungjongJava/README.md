@@ -8,22 +8,22 @@
 
 
 #### 클래스 불러오기
-```
+```Java
 Chojungjong chojungjong = new Chojungjong()
 ```
 
 ## 메소드
 #### 구현된거
 
-```
+```Java
 separate(final String letter)
 ```
 
-```
+```Java
 sfa(final String word)
 ```
 
-```
+```Java
 concat(final String[] frag)
 ```
 
