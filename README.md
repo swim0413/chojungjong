@@ -83,10 +83,11 @@ sfa(final String word)
 concat(final String[] frag)
 ```
 
+```Java
+cfa(final String[]... fragArray)
+```
+
 #### 미완성
-```
-cfa()
-```
 
 ```
 cfs()
