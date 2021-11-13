@@ -6,7 +6,7 @@
 
 ## 지원 언어
 - JavaScript
-- Python (미완성)
+- Python
 - php (미완성)
 - Java
 
@@ -58,6 +58,38 @@ cfs는 **c**oncatenate **f**ragment **s**tring의 줄임말로, 이 함수는 �
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
 ```javascript
 cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
+```
+
+## Python
+by [everythingisformathieu](https://github.com/everythingisformathieu)
+
+### 분리
+
+#### separate(letter: string)
+```python
+separate('와')
+```
+
+#### sfa(word: string)
+```python
+sfa('안녕하세요')
+```
+
+### 결합
+
+#### con(frag: array)
+```python
+con(['ㅇ', 'ㅘ'])
+```
+
+#### cfa(fragArray: array)
+```python
+cfa([['ㅎ', 'ㅏ', 'ㄴ'], ['ㄱ', 'ㅡ', 'ㄹ']])
+```
+
+#### cfs(fragString: string)
+```python
+cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ')
 ```
 
 ## Java
