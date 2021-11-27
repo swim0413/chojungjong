@@ -61,7 +61,7 @@ cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
 
 ## Python
-by [everythingisformathieu](https://github.com/everythingisformathieu)
+by **charconst**
 
 ### 분리
 
@@ -93,7 +93,7 @@ cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ')
 ```
 
 ## Java
-by [nancom20](https://github.com/nancom20)
+by **nancom**
 
 ### 클래스 불러오기
 ```Java
