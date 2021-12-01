@@ -3,6 +3,8 @@
 */
 package com.github.sweetcorn1229.chojungjong;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Arrays;
 import java.util.stream.Stream;
 
@@ -45,7 +47,7 @@ public class Chojungjong {
 
     }
 
-    public String[] separate(final String letter) {
+    public String[] separate(@NotNull final String letter) {
         int k = (int) letter.charAt(0) - 44032;
         int cho = 0, jung = 0, jong = 0;
 
@@ -64,29 +66,29 @@ public class Chojungjong {
                 break;
             }
         }
-        return new String[] {this.CHOSUNG[cho], this.JUNGSUNG[jung], this.JONGSUNG[jong]};
+        return new String[] {CHOSUNG[cho], JUNGSUNG[jung], JONGSUNG[jong]};
     }
 
-    public Stream<String[]> sfa(final String word) {
+    public Stream<String[]> sfa(@NotNull final String word) {
         return Arrays.stream(word.split(" ")).map(this::separate);
     }
 
-    public String concat(final String[] frag) {
-        int icho = Arrays.binarySearch(this.CHOSUNG, frag[0]);
-        int ijung = Arrays.binarySearch(this.JUNGSUNG, frag[1]);
-        int ijong = (frag[2] != null) ? Arrays.binarySearch(this.JONGSUNG, frag[2]) : 0;
+    public String concat(@NotNull final String[] frag) {
+        int icho = Arrays.binarySearch(CHOSUNG, frag[0]);
+        int ijung = Arrays.binarySearch(JUNGSUNG, frag[1]);
+        int ijong = Arrays.binarySearch(JONGSUNG, frag[2]);
 
         int cc = 44032 + icho * 21 * 28 + ijung * 28 + ijong;
 
         return String.valueOf((char) cc);
     }
 
-    public String cfa(final String[]... fragArray) {
+    public String cfa(@NotNull final String[]  ... fragArray) {
         StringBuilder ftag = new StringBuilder();
 
         for (final String[] strings : fragArray) {
             this.concat(strings);
-            ftag.append(this.concat(strings));
+            ftag.append(concat(strings));
         }
 
         return ftag.toString();
