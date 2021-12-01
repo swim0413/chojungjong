@@ -4,6 +4,11 @@
 ## Copyright
 © 2021 Sanha(sweetcorn1229), all rights reserved.
 
+## Version
+### v2.0.0
+### v2.0.1
+- chojungjongJava 복구
+
 ## 지원 언어
 - JavaScript
 - Python
