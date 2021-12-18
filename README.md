@@ -17,4 +17,4 @@ by [**nancom**](https://github.com/nancom20)
 by Sanha(sweetcorn1229)
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
-by [**charconst**](https://github.com/everythingisformatheu)
+by [**charconst**](https://github.com/everythingisformathieu)
