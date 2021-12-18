@@ -6,7 +6,7 @@
 ## Author
 Sanha(sweetcorn1229)
 
-## Documentation
+## How-to-use
 
 ### 시작하기
 
