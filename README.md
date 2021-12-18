@@ -8,6 +8,9 @@
 ### v2.0.0
 ### v2.0.1
 - chojungjongJava 복구
+### v2.0.2
+- php 프로젝트 일단 삭제
+- 경로 개편
 
 ## Docs
 ### [Java](https://github.com/sweetcorn1229/chojungjong/blob/main/java/docs.md)
