@@ -4,7 +4,7 @@
 © 2021 Sanha(sweetcorn1229), all rights reserved.
 
 ## Author
-[**nancom**](https://github.com/nancom20)
+[nancom](https://github.com/nancom20)(nancom20)
 
 ## How-to-use
 
