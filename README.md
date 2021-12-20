@@ -93,8 +93,13 @@ cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ')
 ```
 
 ## Java
-by **nancom20**
+by **nancom**
+
+### 클래스 불러오기
+```Java
+Chojungjong chojungjong = new Chojungjong()
 ```
+
 ### 메소드
 #### 구현된거
 
