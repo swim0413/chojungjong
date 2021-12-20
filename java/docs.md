@@ -4,14 +4,9 @@
 © 2021 Sanha(sweetcorn1229), all rights reserved.
 
 ## Author
-[nancom](https://github.com/nancom20)(nancom20)
+[nancom20](https://github.com/nancom20)
 
 ## How-to-use
-
-### 클래스 불러오기
-```Java
-Chojungjong chojungjong = new Chojungjong()
-```
 
 ### 분리
 
