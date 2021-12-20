@@ -14,10 +14,10 @@
 
 ## Docs
 ### [Java](https://github.com/sweetcorn1229/chojungjong/blob/main/java/docs.md)
-by [nancom](https://github.com/nancom20)(nancom20)
+by @nancom20
 
 ### [Javascript](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md)
 by Sanha(sweetcorn1229)
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
-by [charconst](https://github.com/everythingisformathieu)
+by @everythingisformathieu(charconst)
