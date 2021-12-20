@@ -1,6 +1,7 @@
 /*
 © 2021 Sanha, all rights reserved.
 */
+
 package com.github.sweetcorn1229.chojungjong;
 
 import org.jetbrains.annotations.NotNull;
