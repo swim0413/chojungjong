@@ -15,6 +15,10 @@
 - 여러가지 수정
 
 ## Docs
+
+### [CoffeeScript](https://github.com/sweetcorn1229/chojungjong/blob/main/coffee/docs.md)
+by Sanha(sweetcorn1229)
+
 ### [Java](https://github.com/sweetcorn1229/chojungjong/blob/main/java/docs.md)
 by [nancom20](https://github.com/nancom20)
 
