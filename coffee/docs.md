@@ -16,7 +16,7 @@ cjj = require(PATH);
 ```
 
 #### 분리
-[Javascript 버전](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md) 참고
+[JavaScript 버전](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md) 참고
 
 #### 결합
-[Javascript 버전](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md) 참고
+[JavaScript 버전](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md) 참고
