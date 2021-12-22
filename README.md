@@ -5,7 +5,11 @@
 © 2021 Sanha(sweetcorn1229), all rights reserved.
 
 ## Version
+### v1.0.0
+- JavaScript 버전으로 시작
 ### v2.0.0
+- Java 버전 추가
+- Python 버전 추가
 ### v2.0.1
 - chojungjongJava 복구
 ### v2.0.2
@@ -13,6 +17,8 @@
 - 경로 개편
 ### v2.0.3
 - 여러가지 수정
+### v3.0.0
+- CoffeeScript 버전 추가
 
 ## Docs
 
