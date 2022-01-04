@@ -35,3 +35,5 @@ by [charconst](https://github.com/everythingisformathieu)
 - CoffeeScript 버전 추가
 ### v3.0.1
 - 2022 New Release
+### v3.0.2 (Not Released Yet)
+- README 등 수정
