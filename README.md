@@ -19,21 +19,7 @@ by Sanha(sweetcorn1229)
 by [charconst](https://github.com/everythingisformathieu)
 
 ## Version
-### v1.0.0
-- JavaScript 버전으로 시작
-### v2.0.0
-- Java 버전 추가
-- Python 버전 추가
-### v2.0.1
-- chojungjongJava 복구
-### v2.0.2
-- php 프로젝트 일단 삭제
-- 경로 개편
-### v2.0.3
-- 여러가지 수정
 ### v3.0.0
-- CoffeeScript 버전 추가
-### v3.0.1
 - 2022 New Release
-### v3.0.2 (Not Released Yet)
+### v3.0.1 (Not Released Yet)
 - README 등 수정
