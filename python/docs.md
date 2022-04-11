@@ -1,7 +1,7 @@
 # chojungjong Python
 
 ## Copyright
-© 2021 Sanha(sweetcorn1229), all rights reserved.
+© 2021-2022 sanha1229 & everythingisformathieu, all rights reserved.
 
 ## Author
 [charconst](https://github.com/everythingisformathieu)
