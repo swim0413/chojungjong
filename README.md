@@ -4,7 +4,7 @@
 ## Docs
 
 ### [CoffeeScript](https://github.com/sweetcorn1229/chojungjong/blob/main/coffee/docs.md)
-by Sanha(sweetcorn1229)
+by sanha1229
 
 ### [Java](https://github.com/sweetcorn1229/chojungjong/blob/main/java/docs.md)
 by [nancom20](https://github.com/nancom20)
@@ -13,7 +13,7 @@ by [nancom20](https://github.com/nancom20)
 by sanha1229
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
-by [charconst](https://github.com/everythingisformathieu)
+by [everythingisformathieu](https://github.com/everythingisformathieu)
 
 ## Version
 ### v3.0.0
