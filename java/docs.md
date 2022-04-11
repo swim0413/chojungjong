@@ -1,7 +1,7 @@
 # chojungjong Java
 
 ## Copyright
-© 2021-2022 Sanha(sweetcorn1229), all rights reserved.
+© 2021-2022 sanha1229 & nancom20, all rights reserved.
 
 ## Author
 [nancom20](https://github.com/nancom20)
