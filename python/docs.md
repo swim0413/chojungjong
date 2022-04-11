@@ -4,7 +4,7 @@
 © 2021-2022 sanha1229 & everythingisformathieu, all rights reserved.
 
 ## Author
-[charconst](https://github.com/everythingisformathieu)
+[everythingisformathieu](https://github.com/everythingisformathieu)
 
 ## How-to-use
 
