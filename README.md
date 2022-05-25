@@ -11,9 +11,3 @@ by sanha1229
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
 by [everythingisformathieu](https://github.com/everythingisformathieu)
-
-## Version
-### v3.0.0
-- 2022 New Release
-### v3.0.1 (Not Released Yet)
-- README 등 수정
