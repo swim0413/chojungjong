@@ -11,3 +11,6 @@ by sanha1229
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
 by [everythingisformathieu](https://github.com/everythingisformathieu)
+
+### [TypeScript](https://github.com/sweetcorn1229/chojungjong/blob/main/typescript/docs.md)
+by [F1N2](https://github.com/F1N2)
