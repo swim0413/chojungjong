@@ -12,7 +12,6 @@ sanha1229
 
 #### 모듈 불러오기
 ```typescript
-// const cjj = require(PATH);
 import * as cjj from 'PATH';
 ```
 
@@ -35,7 +34,7 @@ cjj.sfs('안녕'); // [ [ "ㅇ", "ㅏ", "ㄴ" ], [ "ㄴ", "ㅕ", "ㅇ" ] ]
 
 ### 결합
 
-#### con(frag: array)
+#### con(frag: Array\<string\>)
 con는 **concat**의 줄임말로, 이 함수는 초성, 중성, 종성이 담긴 배열을 매개변수로 받아서 한 글자로 결합한 문자열을 반환합니다.
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
 ```typescript
@@ -43,7 +42,7 @@ cjj.con(['ㄱ', 'ㅜ', 'ㄱ']); // "국"
 cjj.con(['ㅇ', 'ㅓ']); // "어"
 ```
 
-#### cfa(fragment: array)
+#### cfa(fragment: Array\<Array\<string\>\>)
 cfa는 **c**oncatenate **f**ragment **a**rray의 줄임말로, 이 함수는 초성, 중성, 종성이 담긴 배열들의 배열을 매개변수로 받아서 각각 결합한 문자열을 반환합니다.
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
 ```typescript
