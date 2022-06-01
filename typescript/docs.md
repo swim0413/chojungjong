@@ -1,10 +1,10 @@
 # chojungjong typescript
 
 ## Copyright
-© 2021-2022 sanha1229, all rights reserved.
+© 2021-2022 sanha1229 & F1N2, all rights reserved.
 
 ## Author
-sanha1229
+F1N2
 
 ## How-to-use
 
