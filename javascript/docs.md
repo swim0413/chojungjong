@@ -4,7 +4,7 @@
 © 2021-2022 sanha1229, all rights reserved.
 
 ## Author
-sanha1229
+[sanha1229](https://github.com/sanha1229)
 
 ## How-to-use
 
