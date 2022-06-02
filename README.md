@@ -1,7 +1,10 @@
 # chojungjong
-한글 초성, 중성, 종성 분리 및 결합 (JS, Java, Python, TS)
+한글 초성, 중성, 종성 분리 및 결합
 
-## Docs
+## Supported Languages
+
+### [CoffeeScript](https://github.com/sweetcorn1229/chojungjong/blob/main/coffeescript/docs.md)
+by sanha1229
 
 ### [Java](https://github.com/sweetcorn1229/chojungjong/blob/main/java/docs.md)
 by [nancom20](https://github.com/nancom20)
