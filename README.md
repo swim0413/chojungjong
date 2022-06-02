@@ -1,5 +1,5 @@
 # chojungjong
-한글 초성, 중성, 종성 분리 및 결합
+한글 초성, 중성, 종성 분리 및 결합 (JS, Java, Python, TS)
 
 ## Docs
 
