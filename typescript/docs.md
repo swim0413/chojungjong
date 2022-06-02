@@ -1,10 +1,10 @@
-# chojungjong typescript
+# chojungjong TypeScript
 
 ## Copyright
 © 2021-2022 sanha1229 & F1N2, all rights reserved.
 
 ## Author
-F1N2
+[F1N2](https://github.com/F1N2)
 
 ## How-to-use
 
