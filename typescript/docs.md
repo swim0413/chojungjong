@@ -21,7 +21,7 @@ import * as cjj from 'PATH';
 sep는 **separate**의 줄임말로, 이 함수는 한글 한 글자를 매개변수로 받아서 초성, 중성, 종성으로 분리한 배열을 반환합니다.
 <br><strong>이때, 'ㅇ'도 초성으로 취급됩니다.</strong>
 ```typescript
-cjj.sep('와'); // [ "ㅇ", "ㅗ", "ㅏ" ] 
+cjj.sep('와'); // [ "ㅇ", "ㅘ", "" ] 
 cjj.sep('우'); // [ "ㅇ", "ㅜ", "" ]
 ```
 
