@@ -12,6 +12,9 @@ by [nancom20](https://github.com/nancom20)
 ### [JavaScript](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md)
 by [sanha1229](https://github.com/sanha1229)
 
+### [PHP](https://github.com/sweetcorn1229/chojungjong/blob/main/php/docs.md)
+by [sanha1229](https://github.com/sanha1229)
+
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
 by [everythingisformathieu](https://github.com/everythingisformathieu)
 
