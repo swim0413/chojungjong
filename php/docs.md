@@ -47,7 +47,7 @@ array( 0 =>
 #### cjj_con($frag: array)
 cjj_con 함수는 초성, 중성, 종성이 담긴 배열을 매개변수로 받아서 한 글자로 결합한 문자열을 반환합니다.
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
-```javascript
+```php
 cjj.con(array('ㄱ', 'ㅜ', 'ㄱ')); // "국"
 cjj.con(array('ㅇ', 'ㅓ')); // "어"
 ```
@@ -55,9 +55,9 @@ cjj.con(array('ㅇ', 'ㅓ')); // "어"
 #### cjj_cfa($fragment: array)
 cjj_cfa는 **c**oncatenate **f**ragment **a**rray의 줄임말로, 이 함수는 초성, 중성, 종성이 담긴 배열들의 배열을 매개변수로 받아서 각각 결합한 문자열을 반환합니다.
 <br>**이때, 초성이 없을 경우에는 대신 'ㅇ'을 사용해야합니다.**
-```javascript
-cjj.cfa(array(array('ㅎ', 'ㅏ', 'ㄴ'), array('ㄱ', 'ㅡ', 'ㄹ'))); // "한글"
+```php
+cjj_cfa(array(array('ㅎ', 'ㅏ', 'ㄴ'), array('ㄱ', 'ㅡ', 'ㄹ'))); // "한글"
 ```
 
-#### 미구현 -cfs($fragString: string)-
+#### 미구현 <del>cfs($fragString: string)</del>
 미구현
