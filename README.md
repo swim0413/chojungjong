@@ -10,7 +10,7 @@ by [sanha1229](https://github.com/sanha1229)
 by [nancom20](https://github.com/nancom20)
 
 #### To Do
-* [] cfs() 구현 (아무나 구현해서 PR 넣으면 됩니다!)
+* [ ] cfs() 구현 (아무나 구현해서 PR 넣으면 됩니다!)
 
 ### [JavaScript](https://github.com/sweetcorn1229/chojungjong/blob/main/javascript/docs.md)
 by [sanha1229](https://github.com/sanha1229)
@@ -19,7 +19,7 @@ by [sanha1229](https://github.com/sanha1229)
 by [sanha1229](https://github.com/sanha1229)
 
 #### To Do
-* [] cjj_cfs() 구현 (ing)
+* [ ] cjj_cfs() 구현 (ing)
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
 by [everythingisformathieu](https://github.com/everythingisformathieu)
