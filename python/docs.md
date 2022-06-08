@@ -15,9 +15,9 @@ import chojungjong as cjj
 
 ### 분리
 
-#### separate(letter: string)
+#### sep(letter: string)
 ```python
-cjj.separate('와')
+cjj.sep('와')
 ```
 
 #### sfa(word: string)
