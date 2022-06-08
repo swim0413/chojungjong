@@ -19,7 +19,7 @@ by [sanha1229](https://github.com/sanha1229)
 by [sanha1229](https://github.com/sanha1229)
 
 #### To Do
-* [ ] cjj_cfs() 구현 (ing)
+* [ ] cjj_cfs() 구현 (7월 2일 이후)
 
 ### [Python](https://github.com/sweetcorn1229/chojungjong/blob/main/python/docs.md)
 by [everythingisformathieu](https://github.com/everythingisformathieu)
