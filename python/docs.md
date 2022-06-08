@@ -27,12 +27,12 @@ cjj.sfa('안녕하세요')
 
 ### 결합
 
-#### con(frag: array)
+#### con(frag: list)
 ```python
 cjj.con(['ㅇ', 'ㅘ'])
 ```
 
-#### cfa(fragArray: array)
+#### cfa(fragArray: list)
 ```python
 cjj.cfa([['ㅎ', 'ㅏ', 'ㄴ'], ['ㄱ', 'ㅡ', 'ㄹ']])
 ```
