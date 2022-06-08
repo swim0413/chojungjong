@@ -32,7 +32,7 @@ concat(final String[] frag)
 cfa(final String[]... fragArray)
 ```
 
-#### <del>cfs</del> (미완성)
+#### <del>cfs</del> (미구현)
 ```Java
 cfs()
 ```
