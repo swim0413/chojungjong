@@ -1,8 +1,6 @@
 # chojungjong
 한글 초성, 중성, 종성 분리 및 결합
 
-## 지원 언어
-
 ## [CoffeeScript](https://github.com/sweetcorn1229/chojungjong/blob/main/coffeescript/docs.md)
 by [sanha1229](https://github.com/sanha1229)
 
