@@ -103,3 +103,7 @@ function cjj_cfa ($fragArray) {
     }
     return $res;
 }
+
+function cjj_sfa ($fragString) {
+    return NULL;
+}
