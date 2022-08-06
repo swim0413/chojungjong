@@ -35,12 +35,12 @@ const JONGSUNG = [
   'ㅎ'
 ];
 
-function sep (letter, option) {
+function sep (letter) {
   let k = letter.charCodeAt() - 44032;
   let cho, jung, jong;
-  for (let i = 1; i <= 19; i++) {
-    if (k < i*21*28) {
-      k -= (i-1)*21*28;
+  for (let i = 1; i < 20; i++) {
+    if (k < i*588) {
+      k -= (i-1)*588;
       for (let j = 1; j <= 21; j++) {
         if (k < j*28) {
           k -= (j-1)*28;
@@ -56,30 +56,30 @@ function sep (letter, option) {
   ];
 }
 
-function sfa (word, option) {
+function sfa (word) {
   return word.split('').map(el => sep(el));
 }
 
-function con (frag, option) {
+function con(frag) {
   let icho = CHOSUNG.indexOf(frag[0]);
   let ijung = JUNGSUNG.indexOf(frag[1]);
   let ijong = frag[2] ? JONGSUNG.indexOf(frag[2]) : 0;
   
-  let cc = 44032+icho*21*28+ijung*28+ijong;
+  let cc = 44032+icho*588+ijung*28+ijong;
   return String.fromCharCode(cc);
 }
 
-function cfa (fragArray, option) {
+function cfa (fragArray) {
   return fragArray.map(el => con(el)).join('');
 }
 
-function cfs (fragString, option) {
-  let b = fragString.split('').map(el => Number(JUNGSUNG.includes(el))).join('').replace(/00/g, '0||0').split('||').map(el => el.length > 3 ? el.replace(/10/g, '1||0') : el).join('||').replace(/\|\|0$/, '0').split('||').map(el => el.length);
-  let result = String();
-  let fsc = String(fragString);
-  for (let v of b) {
-    result += con(fsc.slice(0, v).split(''));
-    fsc = fsc.slice(v);
+let reg = /01(0(?=0))?/g;
+
+function cfs(str) {
+  let result = '', i = 0;
+  let tem = str.split('');
+  for (let v of tem.map(v => JUNGSUNG.indexOf(v) !== -1|0).join('').match(reg)) {
+    result += con(tem.slice(i, i+=v.length));
   }
   return result;
 }
