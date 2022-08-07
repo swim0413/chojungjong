@@ -7,6 +7,7 @@
 [swim0413](https://github.com/swim0413)
 
 ## How-to-use
+Program.cs 안에도 예시 있습니다.
 
 ### 분리
 
